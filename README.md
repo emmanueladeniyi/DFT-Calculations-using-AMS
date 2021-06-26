@@ -1,1 +1,1 @@
-# DFT-Calculations-using-AMS
+# DFT-Calculations-and-MD-Simulations-using-AMS
